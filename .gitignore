@@ -1,0 +1,19 @@
+# Python
+*.pyc
+__pycache__/
+
+# Build artifacts
+*.swp
+*.swo
+*~
+.*.swp
+
+# Keys (never commit!)
+keys/
+*.key
+*.pub
+*.asc
+*.sig
+*.password
+*.passphrase
+*-pin.txt
